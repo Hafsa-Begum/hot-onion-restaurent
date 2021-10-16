@@ -1,0 +1,9 @@
+#menu ul li{
+    list-style: none;
+    margin-right: 10px;
+};
+#menu ul li button .category-btn{
+    border: none;
+    padding: 5px;
+   
+}
